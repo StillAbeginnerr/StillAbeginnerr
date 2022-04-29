@@ -9,4 +9,4 @@ first year undergrad from Kalinga institute of industrial technology
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StillAbeginnerr&show_icons=true&theme=radical)
-(https://github-readme-streak-stats.herokuapp.com/?user=StillAbeginnerr)
+![](https://github-readme-streak-stats.herokuapp.com/?user=StillAbeginnerr)
