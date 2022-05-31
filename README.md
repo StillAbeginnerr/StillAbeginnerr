@@ -3,6 +3,10 @@ Currently an undergrad student in Kalinga institute of industrial technology,
 
 ![](https://komarev.com/ghpvc/?username=StillAbeginnerr&color=green)
 
+I am skilled in frontend development and quite comfortable in my stack.
+
+I am aiming to be a full stack developer and a competitive programmer.
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StillAbeginnerr&theme=solarized_dark)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=StillAbeginnerr&show_icons=true&theme=radical)
