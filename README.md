@@ -1,5 +1,6 @@
-Hi , This is shivam Agarwal, 
-undergrad from Kalinga institute of industrial technology
+Hi , I am Shivam Agarwal, 
+Currently an undergrad student in Kalinga institute of industrial technology,
+
 ![](https://komarev.com/ghpvc/?username=StillAbeginnerr&color=green)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StillAbeginnerr&theme=solarized_dark)
