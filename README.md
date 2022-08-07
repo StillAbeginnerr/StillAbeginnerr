@@ -4,7 +4,9 @@
 
 <h3>
 Hi , I am Shivam Agarwal, 
-Currently an undergrad student 2021-2025 at Kalinga institute of industrial technology,
+Currently an undergrad student 2021-2025 at Kalinga institute of industrial technology, India
+  
+  <br>
 
 I am a competitive programmer and a full stack developer
 
