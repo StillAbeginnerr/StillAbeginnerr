@@ -7,10 +7,10 @@ Hi , I am Shivam Agarwal,
 Currently an undergrad student 2021-2025 at Kalinga institute of industrial technology, India
   
   <br>
-
+<br>
 I am a competitive programmer and a full stack developer
 
-
+<br>
 ❄️ I'm a self-taught Developer
   
 </h3>  
