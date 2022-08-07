@@ -26,7 +26,6 @@ I am aiming to be a full stack developer and a competitive programmer.
 * Languages and Tools
 
   ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![image](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)
   ![image](https://img.shields.io/badge/C++-FF6C37?style=for-the-badge&logo=C&logoColor=white)
 
