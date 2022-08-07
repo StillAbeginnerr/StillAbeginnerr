@@ -22,9 +22,7 @@ I am a competitive programmer and a full stack developer
     <a href="https://www.linkedin.com/mwlite/in/shivamagarwalkiit">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-   <a href="mailto:shivamagarwaloff@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="https://codeforces.com/profile/shivamagarwaloff">
-    <img src="https://img.shields.io/badge/-CodeForces-FFA116?style=for-the-badge&logo=Codeforces&logoColor=black" />        
+   <a href="mailto:shivamagarwaloff@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;  
   </a>&nbsp;&nbsp;
 </table>
 
@@ -58,8 +56,21 @@ I am a competitive programmer and a full stack developer
  ![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
  ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+ * Competitive Coding
 
-
+<table>
+  <tr>
+    <a href="https://leetcode.com/Shivam_Agarwal12/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>&nbsp;&nbsp;
+   <a href="https://www.codechef.com/users/coding_artist"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://codeforces.com/profile/shivamagarwaloff">
+    <img src="https://img.shields.io/badge/-CodeForces-FFA116?style=for-the-badge&logo=Codeforces&logoColor=black" />        
+  </a>&nbsp;&nbsp;
+    <a href="https://www.hackerrank.com/SlowCoder872">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</table>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StillAbeginnerr&theme=solarized_dark)
 
