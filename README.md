@@ -8,10 +8,13 @@ Currently an undergrad student at Kalinga institute of industrial technology,
 
 I am skilled in frontend development and quite comfortable in my stack.
 
-I am aiming to be a full stack developer and a competitive programmer.
-</h3>
+I am a competitive programmer and a full stack developer
+
 
 ❄️ I'm a self-taught Developer
+  
+</h3>  
+  
 ## 📫 Find me at:
 
 <table>
