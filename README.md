@@ -10,9 +10,11 @@ Currently an undergrad student 2021-2025 at Kalinga institute of industrial tech
 <br>
 I am a competitive programmer and a full stack developer
 
+<br>  <br>
 <br>
 ❄️ I'm a self-taught Developer
-  
+    <br>
+<br>
 </h3>  
   
 ## 📫 Find me at:
