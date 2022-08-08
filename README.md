@@ -108,7 +108,7 @@ I am a competitive programmer and a full stack developer
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=StillAbeginnerr)
 
-* Just for fun , You can support me if you like!
+* You can support me if you like my work!
 
 <a href="https://www.buymeacoffee.com/shivamagar6">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
