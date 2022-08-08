@@ -15,6 +15,7 @@ I am a competitive programmer and a full stack developer
     <br>
 
 </h3>  
+
   
 ## 📫 Find me at:
 
@@ -78,21 +79,21 @@ I am a competitive programmer and a full stack developer
 
  * Competitive Coding
 
-<table>
+  <table>
   <tr>
-    <a href="https://leetcode.com/Shivam_Agarwal12/">
+     <a href="https://leetcode.com/Shivam_Agarwal12/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>&nbsp;&nbsp;
-   <a href="https://www.codechef.com/users/coding_artist"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="https://codeforces.com/profile/shivamagarwaloff">
+     </a>&nbsp;&nbsp;
+     <a href="https://www.codechef.com/users/coding_artist"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"></a>&nbsp;&nbsp;
+     <a href="https://codeforces.com/profile/shivamagarwaloff">
     <img src="https://img.shields.io/badge/-CodeForces-FFA116?style=for-the-badge&logo=Codeforces&logoColor=black" />        
-  </a>&nbsp;&nbsp;
+     </a>&nbsp;&nbsp;
     <a href="https://www.hackerrank.com/SlowCoder872">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-</table>
+     </a>&nbsp;&nbsp;
+   </table>
 
-*Some Achievements
+* Some Achievements
 
 ![](https://github-profile-trophy.vercel.app/?username=StillAbeginnerr)
 
