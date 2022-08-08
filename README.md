@@ -25,9 +25,10 @@ I am a competitive programmer and a full stack developer
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   
-   <a href="https://mobile.twitter.com/StillABeginner">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
+<a href="https://twitter.com/StillABeginner" target="blank">
+  <img src="https://img.shields.io/twitter/follow/StillABeginner?logo=twitter&style=for-the-badge" />
+    </a>&nbsp;&nbsp;
+    
 
 <a href="https://discord.com/channels/@Boringlife#5281">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
