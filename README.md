@@ -10,6 +10,10 @@ Currently an undergrad student 2021-2025 at Kalinga institute of industrial tech
 <br>
 I am a competitive programmer and a full stack developer
 
+<br><br>
+Personal Website - 
+http://personal-cv-nu.vercel.app
+
 <br>  <br>
 ❄️ I'm a self-taught Developer
     <br>
