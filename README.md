@@ -38,9 +38,7 @@ https://portfoliosite-wbbk.vercel.app/ (Under-Progress)
     </a>&nbsp;&nbsp;
     
 
-<a href="https://discord.com/channels/@Boringlife#5281">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>&nbsp;&nbsp;
+
 
 </table>
 
