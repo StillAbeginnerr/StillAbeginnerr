@@ -15,7 +15,7 @@ Personal Websites -
 http://personal-cv-nu.vercel.app/ 
 <br/>
 <br/>
-https://portfoliosite-wbbk.vercel.app/ (Under-Progress)
+
 
 
 <br>  <br>
