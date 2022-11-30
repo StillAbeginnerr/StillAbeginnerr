@@ -106,14 +106,6 @@ http://personal-cv-nu.vercel.app/
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StillAbeginnerr&theme=solarized_dark)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=StillAbeginnerr&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StillAbeginnerr&show_icons=true&theme=radical)
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=StillAbeginnerr)
-
 * You can support me if you like my work!
 
 <a href="https://www.buymeacoffee.com/shivamagar6">
