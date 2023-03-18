@@ -8,7 +8,7 @@ Currently an undergrad student 2021-2025 at Kalinga institute of industrial tech
   
   <br>
 <br>
-I am a competitive programmer and a full stack developer
+I am founder & CTO of medift.in a healthcare startup , also a competitive programmer and a full stack developer
 
 <br><br>
 Personal Websites - 
