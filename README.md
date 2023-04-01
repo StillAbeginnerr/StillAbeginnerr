@@ -12,7 +12,7 @@ I am founder & CTO of medift.in a healthcare startup , also a competitive progra
 
 <br><br>
 Personal Websites - 
-http://personal-cv-nu.vercel.app/ 
+https://portfolio-site-pink-three.vercel.app/
 <br/>
 <br/>
 
