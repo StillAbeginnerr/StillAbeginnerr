@@ -23,9 +23,7 @@ Currently an undergrad student 2021-2025 at Kalinga institute of industrial tech
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   
-<a href="https://twitter.com/StillABeginner" target="blank">
-  <img src="https://img.shields.io/twitter/follow/StillABeginner?logo=twitter&style=for-the-badge" />
-    </a>&nbsp;&nbsp;
+
     
 
 
