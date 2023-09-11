@@ -5,16 +5,6 @@
 <h3>
 Hi , I am Shivam Agarwal, 
 Currently an undergrad student 2021-2025 at Kalinga institute of industrial technology, India
-  
-  <br>
-<br>
-I am founder & CTO of medift.in a healthcare startup , also a competitive programmer and a full stack developer
-
-<br><br>
-Personal Websites - 
-https://portfolio-site-pink-three.vercel.app/
-<br/>
-<br/>
 
 
 
