@@ -13,8 +13,8 @@ Currently an undergrad student 2021-2025 at Kalinga institute of industrial tech
 
 <table>
   <tr>
-    <a href='http://www.shivamagarwal.co.in'>my website</a>
-    <br>
+    <a style='text-decoration:none;' href='http://www.shivamagarwal.co.in'>my website</a>
+    <br><br>
     <a href="https://www.linkedin.com/mwlite/in/shivamagarwalkiit">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
