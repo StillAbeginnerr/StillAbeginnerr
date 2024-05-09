@@ -6,7 +6,7 @@
 <img style='height:"300px";' src='https://i.pinimg.com/originals/f5/38/70/f538704e9c88dcecd8bd59450c6f6166.jpg' alt=''/>
 
 </h3>  
-
+Apart from Coding, I enjoy photography and travelling to feed my curiosity about various cultures and traditions.
   
 ## 📫 Find me at:
 
