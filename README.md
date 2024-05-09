@@ -35,7 +35,7 @@ Currently an undergrad student 2021-2025 at Kalinga institute of industrial tech
   ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
    ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
     ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 * Cloud and Hosting services
 
@@ -56,9 +56,7 @@ Currently an undergrad student 2021-2025 at Kalinga institute of industrial tech
 ![image](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)
  
 * Frontend Frameworks
-
-
-  ![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  
   ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   
 * CSS Frameworks
@@ -71,7 +69,6 @@ Currently an undergrad student 2021-2025 at Kalinga institute of industrial tech
 * OS
  
      ![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-     ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
  * Competitive Coding
 
