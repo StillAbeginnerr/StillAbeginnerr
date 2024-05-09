@@ -3,10 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=StillAbeginnerr&color=green)
 
 <h3>
-<img src='https://i.pinimg.com/originals/88/34/aa/8834aae6a4186b26103cfe0c39bc9ccf.jpg' alt=''/>
-
-Hi , I am Shivam Agarwal, 
-Currently an undergrad student 2021-2025 at Kalinga institute of industrial technology, India
+<img style='height:"300px";' src='https://i.pinimg.com/originals/f5/38/70/f538704e9c88dcecd8bd59450c6f6166.jpg' alt=''/>
 
 </h3>  
 
