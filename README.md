@@ -3,6 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=StillAbeginnerr&color=green)
 
 <h3>
+![image](https://github.com/StillAbeginnerr/StillAbeginnerr/assets/88205668/4dcf714d-5f7d-4b04-91df-a60767b52ee5)
+
 Hi , I am Shivam Agarwal, 
 Currently an undergrad student 2021-2025 at Kalinga institute of industrial technology, India
 
