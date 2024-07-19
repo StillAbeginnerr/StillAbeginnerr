@@ -8,7 +8,7 @@
 🚀 About Me<br/>
 I am a passionate Backend Developer, currently completing my B.Tech in Computer Science and Communication Engineering at KIIT University, specializing in developing scalable and efficient software solutions. With hands-on internship experience at prestigious organizations like DRDO and Qualessence Technologies, I have honed my skills in modern backend technologies and software engineering practices.
 <br/><br/>
-🌱 Professional Experiencev
+🌱 Professional Experience<br/>
 - DRDO : Contributed to key projects as a Software Engineer Intern, focusing on enhancing internal systems.
 - Qualessence Technologies: Developed and deployed dynamic e-commerce solutions and participated in the entire software development lifecycle, from conception to deployment.
 <br/><br/>
