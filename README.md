@@ -6,23 +6,24 @@
 <img style='height:"300px";' src='https://i.pinimg.com/originals/f5/38/70/f538704e9c88dcecd8bd59450c6f6166.jpg' alt=''/>
 
 </h3>  
-Apart from Coding, I enjoy photography and travelling to feed my curiosity about various cultures and traditions.
+🚀 About Me
+I am a dedicated and passionate Backend Developer, currently completing my B.Tech in Computer Science and Communication Engineering at KIIT University, specializing in developing scalable and efficient software solutions. With hands-on internship experience at prestigious organizations like DRDO and Qualessence Technologies, I have honed my skills in modern backend technologies and software engineering practices.
+
+🌱 Professional Experience
+- DRDO : Contributed to key projects as a Software Engineer Intern, focusing on enhancing internal systems.
+- Qualessence Technologies: Developed and deployed dynamic e-commerce solutions and participated in the entire software development lifecycle, from conception to deployment.
+
+💡 Projects and Hackathons
+- MediLift: Co-founded this startup and served as CTO, developing a One-Tap Ambulance System, which was a finalist in Pitcher’s Pilot Contest in 2023.
+- Xiaomi Ode 2 code 2.0 : Achieved AIR 11 out of 7806 Teams across India with my 2-person team in 2022.
+- MLH OpenSource Hackfest 2023 : Winner out of 213 participants globally.
+
+🎯 Goals
+I am eager to leverage my backend development expertise to contribute to robust and impactful software solutions. I am particularly interested in opportunities that allow me to work on challenging projects involving complex algorithms and data structures, aiming to improve user experiences and operational efficiency.
+
+🔗 Let's Connect!
+I am currently exploring new opportunities and collaborations in backend development. Please feel free to connect with me to discuss potential projects or roles where my background, skills, and enthusiasms could be of benefit.
   
-## 📫 Find me at:
-
-<table>
-  <tr>
-    <a href="https://www.linkedin.com/mwlite/in/shivamagarwalkiit">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  
-
-    
-
-
-
-</table>
-
 
 
 ### My Tech-Stack:
