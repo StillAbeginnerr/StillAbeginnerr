@@ -2,12 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=StillAbeginnerr&color=green)
 
-<h3>
-
-</h3>  
-🚀 About Me<br/>
-I am a passionate Backend Developer, currently completing my B.Tech in Computer Science and Communication Engineering at KIIT University, specializing in developing scalable and efficient software solutions. With hands-on internship experience at prestigious organizations like DRDO and Qualessence Technologies, I have honed my skills in modern backend technologies and software engineering practices.
-<br/><br/>
 🌱 Professional Experience<br/>
 - DRDO : Contributed to key projects as a Software Engineer Intern, focusing on enhancing internal systems.
 - Qualessence Technologies: Developed and deployed dynamic e-commerce solutions and participated in the entire software development lifecycle, from conception to deployment.
@@ -17,9 +11,7 @@ I am a passionate Backend Developer, currently completing my B.Tech in Computer 
 - Xiaomi Ode 2 code 2.0 : Achieved AIR 11 out of 7806 Teams across India with my 2-person team in 2022.
 - MLH OpenSource Hackfest 2023 : Winner out of 213 participants globally.
 <br/><br/>
-🎯 Goals<br/>
-I am eager to leverage my backend development expertise to contribute to robust and impactful software solutions. I am particularly interested in opportunities that allow me to work on challenging projects involving complex algorithms and data structures, aiming to improve user experiences and operational efficiency.
-<br/><br/>
+
 🔗 Let's Connect!<br/>
 I am currently exploring new opportunities and collaborations in backend development. Please feel free to connect with me to discuss potential projects or roles where my background, skills, and enthusiasms could be of benefit.
   
