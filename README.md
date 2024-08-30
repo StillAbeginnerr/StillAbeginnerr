@@ -8,8 +8,9 @@
 <br/><br/>
 💡 Projects and Hackathons<br/>
 - MediLift: Co-founded this startup and served as CTO, developing a One-Tap Ambulance System, which was a finalist in Pitcher’s Pilot Contest in 2023.
-- Xiaomi Ode 2 code 2.0 : Achieved AIR 11 out of 7806 Teams across India with my 2-person team in 2022.
+- Xiaomi Ode 2 code 2.0 : Achieved All India Rank 11 out of 7806 Teams across India with my 2-person team in 2022.
 - MLH OpenSource Hackfest 2023 : Winner out of 213 participants globally.
+- Adobe GenSolve 24' Top 5 Percentile.
 <br/><br/>
 
 🔗 Let's Connect!<br/>
