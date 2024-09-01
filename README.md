@@ -6,6 +6,7 @@
 - DRDO : Contributed to key projects as a Software Engineer Intern, focusing on enhancing internal systems.
 - Qualessence Technologies: Developed and deployed dynamic e-commerce solutions and participated in the entire software development lifecycle, from conception to deployment.
 <br/><br/>
+
 💡 Projects and Hackathons<br/>
 - MediLift: Co-founded this startup and served as CTO, developing a One-Tap Ambulance System, which was a finalist in Pitcher’s Pilot Contest in 2023.
 - Xiaomi Ode 2 code 2.0 : Achieved All India Rank 11 out of 7806 Teams across India with my 2-person team in 2022.
@@ -13,79 +14,30 @@
 - Adobe GenSolve 24' Top 5 Percentile.
 <br/><br/>
 
-🔗 Let's Connect!<br/>
-I am currently exploring new opportunities and collaborations in backend development. Please feel free to connect with me to discuss potential projects or roles where my background, skills, and enthusiasms could be of benefit.
-  
-
+ Competitive Programming & DSA <br/>
+- I've continued it as a hobby and have solved over 400 problems across all my profiles.
+<br/>
 
 ### My Tech-Stack:
 * Languages and Tools
 
-  ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![image](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)
   ![image](https://img.shields.io/badge/C++-FF6C37?style=for-the-badge&logo=C&logoColor=white)
-  ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-   ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-    ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 * Cloud and Hosting services
 
-  ![image](https://img.shields.io/badge/Heroku-0089D6?style=for-the-badge&logo=Heroku&logoColor=white)
 ![image](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
 
-* Backend Frameworks
-
-
+* Development Experience
+  
   ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![image](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
-  
-* API's
-
-![image](https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white)
 ![image](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)
- 
-* Frontend Frameworks
-  
   ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  
-* CSS Frameworks
-
-
-    ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-    ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+    ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   
 
-* OS
- 
-     ![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
- * Competitive Coding
-
-  <table>
-  <tr>
-     <a href="https://leetcode.com/Shivam_Agarwal12/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-     </a>&nbsp;&nbsp;
-     <a href="https://www.codechef.com/users/coding_artist"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"></a>&nbsp;&nbsp;
-     <a href="https://codeforces.com/profile/shivamagarwaloff">
-    <img src="https://img.shields.io/badge/-CodeForces-FFA116?style=for-the-badge&logo=Codeforces&logoColor=black" />        
-     </a>&nbsp;&nbsp;
-    <a href="https://www.hackerrank.com/SlowCoder872">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />        
-     </a>&nbsp;&nbsp;
-   </table>
-
-* Some Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=StillAbeginnerr)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StillAbeginnerr&theme=solarized_dark)
-
-* You can support me if you like my work!
-
-<a href="https://www.buymeacoffee.com/shivamagar6">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>&nbsp;&nbsp;
