@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=StillAbeginnerr&color=green)
 
-🌱 Professional Experience<br/>
-- DRDO : Contributed to key projects as a Software Engineer Intern, focusing on enhancing internal systems.
-- Qualessence Technologies: Developed and deployed dynamic e-commerce solutions and participated in the entire software development lifecycle, from conception to deployment.
+🌱 Professional Internship Experience<br/>
+- DRDO, India : Contributed to key projects as a Software Engineer Intern, focusing on enhancing internal systems.
+- Qualessence Technologies, India : Developed and deployed dynamic e-commerce solutions and participated in the entire software development lifecycle, from conception to deployment.
 <br/><br/>
 
 💡 Projects and Hackathons<br/>
@@ -15,7 +15,7 @@
 <br/><br/>
 
  Competitive Programming & DSA <br/>
-- I've continued it as a hobby and have solved over 400 problems across all my profiles.
+- I've continued it as a hobby and have solved over 400 problems across all my profiles in C++
 <br/>
 
 ### My Tech-Stack:
