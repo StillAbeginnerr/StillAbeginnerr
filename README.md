@@ -3,20 +3,27 @@
 ![](https://komarev.com/ghpvc/?username=StillAbeginnerr&color=green)
 
 🌱 Professional Internship Experience<br/>
-- DRDO, India : Contributed to key projects as a Software Engineer Intern, focusing on enhancing internal systems.
-- Qualessence Technologies, India : Developed and deployed dynamic e-commerce solutions and participated in the entire software development lifecycle, from conception to deployment.
+- Aerial Defence Research and Development Establishment(DRDO), India : Contributed to key projects as a Software Engineer Intern, focusing on enhancing internal systems.
+- Qualessence Technologies, India : Developing dynamic e-commerce solutions using Next.js,Framer-motion and participated in the entire software development lifecycle, from conception to deployment.
 <br/><br/>
 
 💡 Projects and Hackathons<br/>
 - MediLift: Co-founded this startup and served as CTO, developing a One-Tap Ambulance System, which was a finalist in Pitcher’s Pilot Contest in 2023.
-- Xiaomi Ode 2 code 2.0 : Achieved All India Rank 11 out of 7806 Teams across India with my 2-person team in 2022.
-- MLH OpenSource Hackfest 2023 : Winner out of 213 participants globally.
-- Adobe GenSolve 24' Top 5 Percentile.
+- Xiaomi Ode 2 code 2.0 : Achieved All India Rank 11 out of 7806 Teams across India in 2022 with BurnItDown.
+- MLH OpenSource Hackfest 2023 : Streamlit Winner.
+- Adobe GenSolve 24' Top 5 Percentile in India.
 <br/><br/>
 
  Competitive Programming & DSA <br/>
-- I've continued it as a hobby and have solved over 400 problems across all my profiles in C++
+- I'm continuing it as a hobby and have solved over 400 problems across all my profiles in C++.
 <br/>
+
+ Language 
+- English : Near Fluency 
+- Japanese : Conversational ( Soon will be JLPT N3 Passed )
+- Hindi : Native
+- Hoping to be multi-linguistic in a span of few years.
+
 
 ### My Tech-Stack:
 * Languages and Tools
