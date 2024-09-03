@@ -6,44 +6,44 @@
 
 ## 🌟 Professional Internship Experience
 - 🛡️ **Aerial Defence Research and Development Establishment (DRDO), India**  
-  Contributed to key projects as a Software Engineer Intern, focusing on developing internal systems projects.
+  Contributed to significant projects as a Software Engineer Intern, with a focus on developing internal system applications.
 
 - 💻 **Qualessence Technologies, India**  
-  Developed dynamic e-commerce solutions using Next.js and Framer-motion, participating in the entire software development lifecycle, from conception to deployment.
+  Developed dynamic e-commerce solutions using Next.js and Framer-motion, actively participating in the complete software development lifecycle, from concept to deployment.
 
 ---
 
 ## 🚀 Projects and Hackathons
-- 🚑 **MediLift**: Co-founded this startup and served as CTO, developing a One-Tap Ambulance System; finalist in the Pitcher’s Pilot Contest in 2023.
+- 🚑 **MediLift**: Co-founded this startup and served as CTO, developing a One-Tap Ambulance System; recognized as a finalist in the Pitcher’s Pilot Contest 2023.
 
-- 🥇 **Xiaomi Ode 2 Code 2.0**: Achieved All India Rank 11 out of 7,806 teams across India in 2022 with Team BurnItDown.
+- 🥇 **Xiaomi Ode 2 Code 2.0**: Secured All India Rank 11 out of 7,806 teams in 2022 with Team BurnItDown.
 
-- 🏆 **MLH OpenSource Hackfest 2023**: Streamlit Winner.
+- 🏆 **MLH OpenSource Hackfest 2023**: Awarded as the Streamlit Winner.
 
-- 🎨 **Adobe GenSolve '24**: Top 5 Percentile in India.
+- 🎨 **Adobe GenSolve '24**: Ranked in the top 5 percentile in India.
 
-- 🌐 **Microsoft for Startups**: Member of the Founder's Hub.
+- 🌐 **Microsoft for Startups**: Active member of the Founder's Hub.
 
 ---
 
 ## 🧩 Competitive Programming & DSA
-- 🔥 Continuing as a hobby, I’ve solved over 400 problems across all my profiles in C++.
+- 🔥 Engaged in competitive programming as a hobby, having solved over 400 problems across various platforms in C++.
 
 ---
 
 ## 🌐 Languages
 - 🇬🇧 **English**: Near fluency  
-- 🇯🇵 **Japanese**: Conversational (Soon to be JLPT N3 Passed)  
+- 🇯🇵 **Japanese**: Conversational (aiming for JLPT N3 certification soon)  
 - 🇮🇳 **Hindi**: Native  
-- 🌱 Aspiring to be multi-linguistic by 2026.
+- 🌱 Aspiring to become multi-linguistic by 2026.
 
 ---
 
 ### 🎒 Hobbies
 
-  - Solo backpacking and trekking; recently visited the David Scott Trail.
-  -	Poetry and reading; I highly recommend The Courage to Be Disliked.
-  - Haha! Many more to explore! ^_^
+  - Solo backpacking and trekking; recently explored the Meghalaya and specially enjoyed the nature at *David Scott Trail*.
+  - Poetry and reading; highly recommend *The Courage to Be Disliked* and *The almanack of naval ravikant*.
+  - Haha! Many more interests to discover! ^_^
 
 ---
 
@@ -69,7 +69,3 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
----
-
-
