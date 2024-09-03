@@ -39,11 +39,11 @@
 
 ---
 
-## Hobbies 
+### 🎒 Hobbies
 
-- Solo Backpacking and Trekking, Recently visited David Scott Trail.
-- Poetry and Reading, The Courage to be disliked is what i wanna recommend.
-- Haha! Many More to drop ^_^
+  - Solo backpacking and trekking; recently visited the David Scott Trail.
+  -	Poetry and reading; I highly recommend The Courage to Be Disliked.
+  - Haha! Many more to explore! ^_^
 
 ---
 
