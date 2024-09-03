@@ -3,6 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=StillAbeginnerr&color=green)
 
 ---
+## Academic Background
+- Bachelors of Technology ( B.Tech )
 - Final year of Computer Science and Communication Engineering (2025)
 - Kalinga Institute of Industrial Technology, India
 ---
