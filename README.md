@@ -3,13 +3,13 @@
 ![](https://komarev.com/ghpvc/?username=StillAbeginnerr&color=green)
 
 🌱 Professional Internship Experience<br/>
-- Aerial Defence Research and Development Establishment(DRDO), India : Contributed to key projects as a Software Engineer Intern, focusing on enhancing internal systems.
+- Aerial Defence Research and Development Establishment(DRDO), India : Contributed to key projects as a Software Engineer Intern, focusing on developing a project for internal systems .
 - Qualessence Technologies, India : Developing dynamic e-commerce solutions using Next.js,Framer-motion and participated in the entire software development lifecycle, from conception to deployment.
 <br/><br/>
 
 💡 Projects and Hackathons<br/>
 - MediLift: Co-founded this startup and served as CTO, developing a One-Tap Ambulance System, which was a finalist in Pitcher’s Pilot Contest in 2023.
-- Xiaomi Ode 2 code 2.0 : Achieved All India Rank 11 out of 7806 Teams across India in 2022 with BurnItDown.
+- Xiaomi Ode 2 code 2.0 : Achieved All India Rank 11 out of 7806 Teams across India in 2022 with Team BurnItDown.
 - MLH OpenSource Hackfest 2023 : Streamlit Winner.
 - Adobe GenSolve 24' Top 5 Percentile in India.
 <br/><br/>
