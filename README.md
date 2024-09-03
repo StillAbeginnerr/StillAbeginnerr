@@ -47,6 +47,15 @@
 
 ---
 
+🌟 Favorite Projects
+
+Here are some of my favorite projects from my GitHub repository:
+
+-	📊 GmailToWhatsApp : A tool to automate receiving gmails over whatsapp using Twilio bot and Node.js
+-	🤖 Evanth AI (https://www.evanth.in) : An AI-powered chatbot utilizing NLP for intelligent conversation handling, integrated with various APIs for dynamic responses.
+
+---
+
 ### 💻 My Tech-Stack:
 
 **Languages and Tools**
