@@ -39,7 +39,6 @@
 
 ---
 
-Here's your tech stack formatted with badges and organized into categories, similar to your style:
 
 ---
 
