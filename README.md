@@ -40,8 +40,6 @@
 ---
 
 
----
-
 ### 💻 My Tech-Stack:
 
 **Languages and Tools**
