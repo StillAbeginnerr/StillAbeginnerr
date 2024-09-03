@@ -41,7 +41,7 @@
 
 ### 🎒 Hobbies
 
-  - Solo backpacking and trekking; recently explored the Meghalaya and specially enjoyed the nature at *David Scott Trail*.
+  - Solo backpacking and trekking; recently explored Meghalaya, with a highlight being the *David Scott Trail*, which I especially enjoyed.
   - Poetry and reading; highly recommend *The Courage to Be Disliked* and *The almanack of naval ravikant*.
   - Haha! Many more interests to discover! ^_^
 
