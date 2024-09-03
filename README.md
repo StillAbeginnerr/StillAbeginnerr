@@ -52,7 +52,7 @@
 
 ---
 
-###🌟 Favorite Projects
+### 🌟 Favorite Projects
 
 Here are some of my favorite projects from my GitHub repository:
 
