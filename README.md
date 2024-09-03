@@ -32,7 +32,7 @@
 ---
 
 ## 🌐 Languages
-- 🗣️ **English**: Near fluency  
+- 🇬🇧 **English**: Near fluency  
 - 🇯🇵 **Japanese**: Conversational (Soon to be JLPT N3 Passed)  
 - 🇮🇳 **Hindi**: Native  
 - 🌱 Aspiring to be multi-linguistic by 2026.
