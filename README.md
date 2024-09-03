@@ -3,6 +3,12 @@
 ![](https://komarev.com/ghpvc/?username=StillAbeginnerr&color=green)
 
 ---
+https://img.freepik.com/free-vector/programming-concept-illustration_114360-1670.jpg?w=1800&t=st=1725336156~exp=1725336756~hmac=080df9e7cbf8b728c16b4eb7db936d22982d83b202b0be0c3a5d31026d72db5e![image](https://github.com/user-attachments/assets/c4b71e56-1d01-48c6-8570-17687ae2fca8)
+
+- Final year of Computer Science and Communication Engineering (2025)
+- Kalinga Institute of Industrial Technology, India
+
+---
 
 ## 🌟 Professional Internship Experience
 - 🛡️ **Aerial Defence Research and Development Establishment (DRDO), India**  
