@@ -12,6 +12,7 @@
 - Xiaomi Ode 2 code 2.0 : Achieved All India Rank 11 out of 7806 Teams across India in 2022 with Team BurnItDown.
 - MLH OpenSource Hackfest 2023 : Streamlit Winner.
 - Adobe GenSolve 24' Top 5 Percentile in India.
+- Microsoft for Startups Founder's Hub Member.
 <br/><br/>
 
  Competitive Programming & DSA <br/>
