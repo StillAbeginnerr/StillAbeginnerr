@@ -42,7 +42,7 @@
 ### 🎒 Hobbies
 
   - Solo backpacking and trekking; recently explored Meghalaya, with a highlight being the *David Scott Trail*, which I especially enjoyed.
-  - Poetry and reading; highly recommend *The Courage to Be Disliked* and *The almanack of naval ravikant*.
+  - Poetry and reading; highly recommend *The courage to be disliked* and *The almanack of naval ravikant*.
   - Haha! Many more interests to discover! ^_^
 
 ---
