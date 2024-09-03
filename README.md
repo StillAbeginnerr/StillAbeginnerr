@@ -2,29 +2,43 @@
 
 ![](https://komarev.com/ghpvc/?username=StillAbeginnerr&color=green)
 
-🌱 Professional Internship Experience<br/>
-- Aerial Defence Research and Development Establishment(DRDO), India : Contributed to key projects as a Software Engineer Intern, focusing on developing a project for internal systems .
-- Qualessence Technologies, India : Developing dynamic e-commerce solutions using Next.js,Framer-motion and participated in the entire software development lifecycle, from conception to deployment.
-<br/><br/>
+---
 
-💡 Projects and Hackathons<br/>
-- MediLift: Co-founded this startup and served as CTO, developing a One-Tap Ambulance System, which was a finalist in Pitcher’s Pilot Contest in 2023.
-- Xiaomi Ode 2 code 2.0 : Achieved All India Rank 11 out of 7806 Teams across India in 2022 with Team BurnItDown.
-- MLH OpenSource Hackfest 2023 : Streamlit Winner.
-- Adobe GenSolve 24' Top 5 Percentile in India.
-- Microsoft for Startups Founder's Hub Member.
-<br/><br/>
+## 🌟 Professional Internship Experience
+- 🛡️ **Aerial Defence Research and Development Establishment (DRDO), India**  
+  Contributed to key projects as a Software Engineer Intern, focusing on developing internal systems projects.
 
- Competitive Programming & DSA <br/>
-- I'm continuing it as a hobby and have solved over 400 problems across all my profiles in C++.
-<br/>
+- 💻 **Qualessence Technologies, India**  
+  Developed dynamic e-commerce solutions using Next.js and Framer-motion, participating in the entire software development lifecycle, from conception to deployment.
 
- Language 
-- English : Near Fluency 
-- Japanese : Conversational ( Soon will be JLPT N3 Passed )
-- Hindi : Native
-- Hoping to be multi-linguistic in a span of few years by 2026.
-<br/>
+---
+
+## 🚀 Projects and Hackathons
+- 🚑 **MediLift**: Co-founded this startup and served as CTO, developing a One-Tap Ambulance System; finalist in the Pitcher’s Pilot Contest in 2023.
+
+- 🥇 **Xiaomi Ode 2 Code 2.0**: Achieved All India Rank 11 out of 7,806 teams across India in 2022 with Team BurnItDown.
+
+- 🏆 **MLH OpenSource Hackfest 2023**: Streamlit Winner.
+
+- 🎨 **Adobe GenSolve '24**: Top 5 Percentile in India.
+
+- 🌐 **Microsoft for Startups**: Member of the Founder's Hub.
+
+---
+
+## 🧩 Competitive Programming & DSA
+- 🔥 Continuing as a hobby, I’ve solved over 400 problems across all my profiles in C++.
+
+---
+
+## 🌐 Languages
+- 🗣️ **English**: Near fluency  
+- 🇯🇵 **Japanese**: Conversational (Soon to be JLPT N3 Passed)  
+- 🇮🇳 **Hindi**: Native  
+- 🌱 Aspiring to be multi-linguistic by 2026.
+
+---
+
 
 
 ### My Tech-Stack:
