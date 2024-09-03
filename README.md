@@ -58,7 +58,7 @@ Here are some of my favorite projects from my GitHub repository:
 
 -	💬 GmailToWhatsApp : A tool to automate receiving gmails over whatsapp using Twilio bot and Node.js
 -	✏️ CurveTopia : A tool to check shapes and their symmetries, it also recognize and regenerates bad shapes.
--	🙎🏻‍♂️ Evanth AI (https://www.evanth.in) : An AI-powered chatbot utilizing NLP for intelligent conversation handling, integrated with various APIs for dynamic responses.
+-	🙎🏻‍♂️ Evanth AI ([https://www.evanth.in](https://evanth.in)) : An AI-powered chatbot utilizing NLP for intelligent conversation handling, integrated with various APIs for dynamic responses.
 
 ---
 
