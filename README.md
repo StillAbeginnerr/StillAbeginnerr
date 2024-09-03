@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=StillAbeginnerr&color=green)
 
 ---
-## Academic Background
+## 📚 Academic Background
 - Bachelors of Technology ( B.Tech )
 - Computer Science and Communication Engineering (2025)
 - Kalinga Institute of Industrial Technology, India
@@ -52,7 +52,7 @@
 
 ---
 
-🌟 Favorite Projects
+###🌟 Favorite Projects
 
 Here are some of my favorite projects from my GitHub repository:
 
