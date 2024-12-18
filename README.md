@@ -18,13 +18,13 @@ geospatial tools.
 Collaborated with the developer community to refine and implement actionable solutions.
 
 ## 🌟 Building in Public AI Engineer Experience
-- 🗺️ **Open Street Maps**  
-- Dynamic AI Collaboration Platform: Designed and implemented a multi-layer AI system combining
+- 🗺️ **Evanth AI**  
+Dynamic AI Collaboration Platform: Designed and implemented a multi-layer AI system combining
 inquiry capture, query generation, data aggregation, and response generation for accurate and efficient
 user solutions.
-- Core Features: Introduced unique capabilities like dynamic model switching, AI plugins, and live web
+Core Features: Introduced unique capabilities like dynamic model switching, AI plugins, and live web
 interactions to enhance functionality.
-- User Growth: Achieved over 9,300 visits, 20,000 Event Count 250+ signups within the first
+User Growth: Achieved over 9,300 visits, 20,000 Event Count 250+ signups within the first
 month of MVP launch according to google analytics.
 
 
