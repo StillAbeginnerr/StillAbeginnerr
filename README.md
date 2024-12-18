@@ -17,6 +17,16 @@ Assisted in identifying bugs and suggesting improvements for better user experie
 geospatial tools.
 Collaborated with the developer community to refine and implement actionable solutions.
 
+## 🌟 Building in Public AI Engineer Experience
+- 🗺️ **Open Street Maps**  
+- Dynamic AI Collaboration Platform: Designed and implemented a multi-layer AI system combining
+inquiry capture, query generation, data aggregation, and response generation for accurate and efficient
+user solutions.
+- Core Features: Introduced unique capabilities like dynamic model switching, AI plugins, and live web
+interactions to enhance functionality.
+- User Growth: Achieved over 9,300 visits, 20,000 Event Count 250+ signups within the first
+month of MVP launch according to google analytics.
+
 
 ## 🌟 Professional Internship Experience
 - 🛡️ **Aerial Defence Research and Development Establishment (DRDO), India**  
@@ -61,13 +71,12 @@ Collaborated with the developer community to refine and implement actionable sol
 
 ---
 
-### 🌟 Favorite Projects
+### 🌟 Projects
 
 Here are some of my favorite projects from my GitHub repository:
 
 -	💬 GmailToWhatsApp : A tool to automate receiving gmails over whatsapp using Twilio bot and Node.js
 -	✏️ CurveTopia : A tool to check shapes and their symmetries, it also recognize and regenerates bad shapes.
--	🙎🏻‍♂️ Evanth AI ([https://www.evanth.in](https://evanth.in)) : An AI-powered chatbot utilizing NLP for intelligent conversation handling, integrated with various APIs for dynamic responses.
 
 ---
 
