@@ -9,6 +9,15 @@
 - Kalinga Institute of Industrial Technology, India
 ---
 
+## 🌟 Open Source Experience
+- 🗺️ **Open Street Maps**  
+Contributed to OpenStreetMap’s iD editor by engaging in issue discussions, including Issue #10573,
+#10570 providing detailed feedback on user interface and functionality enhancements.
+Assisted in identifying bugs and suggesting improvements for better user experience in open-source
+geospatial tools.
+Collaborated with the developer community to refine and implement actionable solutions.
+
+
 ## 🌟 Professional Internship Experience
 - 🛡️ **Aerial Defence Research and Development Establishment (DRDO), India**  
   Contributed to significant projects as a Software Engineer Intern, with a focus on developing internal system applications.
