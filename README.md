@@ -19,7 +19,7 @@ geospatial tools.
 Collaborated with the developer community to refine and implement actionable solutions.
 
 ## 🌟 Building in Public AI Engineer Experience
-- 🙎🏻‍♂️ **Evanth AI**  [Web-Link](https://www.evanth.in)
+- 🙎🏻‍♂️ **Evanth AI**  [Click-To-Open](https://www.evanth.in) <br>
 Dynamic AI Collaboration Platform: Designed and implemented a multi-layer AI system combining
 inquiry capture, query generation, data aggregation, and response generation for accurate and efficient
 user solutions.
