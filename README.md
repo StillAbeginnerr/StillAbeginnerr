@@ -10,6 +10,9 @@
 - Resume : [Google Drive Link](https://drive.google.com/file/d/13xHhGcSLiRRCeCPaJDad1vP4pv9mkBbm/view?usp=sharing)
 ---
 
+## ✏️ Software & Product Development Blogging
+- Coming soon.
+
 ## 🌟 Open Source Experience
 - 🗺️ **Open Street Maps**  
 Contributed to OpenStreetMap’s iD editor by engaging in issue discussions, including Issue #10573,
