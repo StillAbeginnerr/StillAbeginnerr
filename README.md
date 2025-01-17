@@ -44,22 +44,22 @@ month of MVP launch according to google analytics.
 
 
 ## 🚀 **Projects**  
-💡 **MediLift**: Co-founded and served as CTO, developing a **One-Tap Ambulance System**; finalist in the **Pitcher’s Pilot Contest 2023**.   
-🌐 **Microsoft for Startups**: Active member of the **Founder's Hub** with Evanth AI.
+-💡 **MediLift**: Co-founded and served as CTO, developing a **One-Tap Ambulance System**; finalist in the **Pitcher’s Pilot Contest 2023**.   
+- 🌐 **Microsoft for Startups**: Active member of the **Founder's Hub** with Evanth AI.
 
 
 ## 🏆 **Hackathons**  
-🎖️ **Xiaomi Ode 2 Code 2.0 Hackathon**: All India Rank **11** out of **7,806 participants**.  
-🌍 **MLH OpenSource Hackfest 2023**: **Winner** among 200+ international participants.  
-🚀 **Startup Grind GID 3.0**: **Finalist** in Product Development and Prototyping.  
-🎨 **Adobe GenSolve '24**: Top 5 percentile out of **100,000+ participants nationally**.  
+- 🎖️ **Xiaomi Ode 2 Code 2.0 Hackathon**: All India Rank **11** out of **7,806 participants**.  
+- 🌍 **MLH OpenSource Hackfest 2023**: **Winner** among 200+ international participants.  
+- 🚀 **Startup Grind GID 3.0**: **Finalist** in Product Development and Prototyping.  
+- 🎨 **Adobe GenSolve '24**: Top 5 percentile out of **100,000+ participants nationally**.  
 
 ## 🏅 **Achievements**   
-🌟 **Enactus India National Exposition**: Early Stage Winner.  
-🏆 **Startup Grind Bhubaneswar**: Best Performer in 2023.  
-🔧 **GSSOC 2022**: Top **125 Rank** out of 1,000+ participants with **7 PRs merged** in multiple projects.  
-🛠️ **IEM Diversion ’22**: Open Source Contributor.  
-🌐 **Hacktober Fest ’22**: Open Source Contributor.  
+- 🌟 **Enactus India National Exposition**: Early Stage Winner.  
+- 🏆 **Startup Grind Bhubaneswar**: Best Performer in 2023.  
+- 🔧 **GSSOC 2022**: Top **125 Rank** out of 1,000+ participants with **7 PRs merged** in multiple projects.  
+- 🛠️ **IEM Diversion ’22**: Open Source Contributor.  
+- 🌐 **Hacktober Fest ’22**: Open Source Contributor.  
 
 ## 🎓 Certifications  
 - 🥾 **Indiahikes Certified Trekker** – *IndiaHikes*  
