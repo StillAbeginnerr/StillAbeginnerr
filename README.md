@@ -41,16 +41,38 @@ month of MVP launch according to google analytics.
 
 ---
 
-## 🚀 Projects and Hackathons
-- 🚑 **MediLift**: Co-founded this startup and served as CTO, developing a One-Tap Ambulance System; recognized as a finalist in the Pitcher’s Pilot Contest 2023.
 
-- 🥇 **Xiaomi Ode 2 Code 2.0**: Secured All India Rank 11 out of 7,806 teams in 2022 with Team BurnItDown.
 
-- 🏆 **MLH OpenSource Hackfest 2023**: Awarded as the Streamlit Winner.
+## 🚀 **Projects**  
+💡 **MediLift**: Co-founded and served as CTO, developing a **One-Tap Ambulance System**; finalist in the **Pitcher’s Pilot Contest 2023**.   
+🌐 **Microsoft for Startups**: Active member of the **Founder's Hub** with Evanth AI.
 
-- 🎨 **Adobe GenSolve '24**: Ranked in the top 5 percentile in India.
 
-- 🌐 **Microsoft for Startups**: Active member of the Founder's Hub.
+## 🏆 **Hackathons**  
+🎖️ **Xiaomi Ode 2 Code 2.0 Hackathon**: All India Rank **11** out of **7,806 participants**.  
+🌍 **MLH OpenSource Hackfest 2023**: **Winner** among 200+ international participants.  
+🚀 **Startup Grind GID 3.0**: **Finalist** in Product Development and Prototyping.  
+🎨 **Adobe GenSolve '24**: Top 5 percentile out of **100,000+ participants nationally**.  
+
+## 🏅 **Achievements**   
+🌟 **Enactus India National Exposition**: Early Stage Winner.  
+🏆 **Startup Grind Bhubaneswar**: Best Performer in 2023.  
+🔧 **GSSOC 2022**: Top **125 Rank** out of 1,000+ participants with **7 PRs merged** in multiple projects.  
+🛠️ **IEM Diversion ’22**: Open Source Contributor.  
+🌐 **Hacktober Fest ’22**: Open Source Contributor.  
+
+## 🎓 Certifications  
+- 🥾 **Indiahikes Certified Trekker** – *IndiaHikes*  
+- 🧩 **Basic Problem Solving** – *HackerRank*  
+- ⚛️ **React.js Essential Training** – *LinkedIn*  
+- 📊 **Biases and Portfolio Selection** – *Rice University, Texas, US* (*Coursera*)  
+- 📈 **Portfolio Selection and Risk Management** – *Rice University, Texas, US* (*Coursera*)  
+
+---
+
+## Certifications 
+
+
 
 ---
 
