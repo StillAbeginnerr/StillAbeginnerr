@@ -44,7 +44,7 @@ month of MVP launch according to google analytics.
 
 
 ## 🚀 **Projects**  
--💡 **MediLift**: Co-founded and served as CTO, developing a **One-Tap Ambulance System**; finalist in the **Pitcher’s Pilot Contest 2023**.   
+- 💡 **MediLift**: Co-founded and served as CTO, developing a **One-Tap Ambulance System**; finalist in the **Pitcher’s Pilot Contest 2023**.   
 - 🌐 **Microsoft for Startups**: Active member of the **Founder's Hub** with Evanth AI.
 
 
