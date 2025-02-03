@@ -31,7 +31,7 @@ interactions to enhance functionality.
 User Growth: Achieved over 9,300 visits, 20,000 Event Count 250+ signups within the first
 month of MVP launch according to google analytics.
 
-# 💹 Quantitative Developer | Backtesting Enthusiast  
+## 💹 Quantitative Developer | Backtesting Enthusiast  
 
 Passionate about developing systematic trading strategies, financial models, and backtesting frameworks. I focus on data-driven approaches to algorithmic trading, leveraging statistical analysis and machine learning for alpha generation.  
 
