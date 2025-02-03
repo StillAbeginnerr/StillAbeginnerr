@@ -31,6 +31,20 @@ interactions to enhance functionality.
 User Growth: Achieved over 9,300 visits, 20,000 Event Count 250+ signups within the first
 month of MVP launch according to google analytics.
 
+# 💹 Quantitative Developer | Algorithmic Trading | Backtesting Enthusiast  
+
+Passionate about developing systematic trading strategies, financial models, and backtesting frameworks. I focus on data-driven approaches to algorithmic trading, leveraging statistical analysis and machine learning for alpha generation.  
+
+## 🔥 Expertise  
+- 📈 **Quantitative Finance & Systematic Trading**  
+- 🛠️ **Backtesting & Risk Management**  
+
+## 🚀 Projects  
+- [🔗 Moving Average Crossover Backtesting](https://github.com/StillAbeginnerr/Moving-Average-Crossover-Backtesting) – A Python-based framework for evaluating moving average crossover strategies with performance analytics and visualization.  
+- More projects on portfolio optimization, factor models, and market microstructure coming soon!  
+
+💬 Always open to discussions on quantitative strategies, algorithmic trading, and financial engineering!  
+
 
 ## 🌟 Professional Internship Experience
 - 🛡️ **Aerial Defence Research and Development Establishment (DRDO), India**  
