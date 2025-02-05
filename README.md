@@ -12,6 +12,7 @@
 
 ## ✏️ Currently on?
 - OSS, Leetcode and Fine-tuning my personal AI based on a certain LLM model.
+- Open to be hired for developer as well as Intern roles, preferably an AI Full-Stack position.
 
 ## 🌟 Open Source Experience
 - 🗺️ **Open Street Maps**  
