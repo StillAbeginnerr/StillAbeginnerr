@@ -10,8 +10,8 @@
 - Resume : [Google Drive Link](https://drive.google.com/file/d/1MztVLMwXJwkklUIaiKe79LVZBoO6hZrz/view?usp=sharing)
 ---
 
-## ✏️ Software & Product Development Blogging
-- Coming soon.
+## ✏️ Currently on?
+- OSS, Leetcode and Fine-tuning my personal AI based on a certain LLM model.
 
 ## 🌟 Open Source Experience
 - 🗺️ **Open Street Maps**  
