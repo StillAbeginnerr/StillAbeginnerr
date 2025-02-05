@@ -70,7 +70,7 @@ Passionate about developing systematic trading strategies, financial models, and
 - 🌐 **Hacktober Fest ’22**: Open Source Contributor.  
 
 ## 🎓 Certifications  
-- 🥾 **Indiahikes Certified Trekker** – *IndiaHikes*  
+- 🥾 **Trekker** – *IndiaHikes*  
 - 🧩 **Basic Problem Solving** – *HackerRank*  
 - ⚛️ **React.js Essential Training** – *LinkedIn*  
 - 📊 **Biases and Portfolio Selection** – *Rice University, Texas, US* (*Coursera*)  
