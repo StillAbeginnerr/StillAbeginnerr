@@ -96,7 +96,7 @@ Passionate about developing systematic trading strategies, financial models, and
 
 ## 🌐 Languages
 - 🇬🇧 **English**: Near fluency  
-- 🇯🇵 **Japanese**: Conversational (aiming for JLPT N3 certification soon)  
+- 🇯🇵 **Japanese**: Basic (aiming for JLPT certifications)  
 - 🇮🇳 **Hindi**: Native  
 - 🌱 Aspiring to become multi-linguistic by 2026.
 
