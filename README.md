@@ -83,12 +83,6 @@ Passionate about developing systematic trading strategies, financial models, and
 
 ---
 
-## Certifications 
-
-
-
----
-
 ## 🧩 Competitive Programming & DSA
 - 🔥 Engaged in competitive programming as a hobby, having solved over 400 problems across various platforms in C++.
 
@@ -107,6 +101,12 @@ Passionate about developing systematic trading strategies, financial models, and
   - Solo backpacking and trekking; recently explored DEORIATAL CHANDRASHILA, 12083 feet high in Garhwal Himalayas [Trek Certificate](https://drive.google.com/file/d/1mmm0WC-UgHRfHh3_yDYpoqlUcZ_zvMKC/view?usp=sharing) and also Meghalaya, with a highlight being the *David Scott Trail*, which I especially enjoyed.
   - Poetry and reading; highly recommend *The Courage To Be Disliked*.
   - Haha! Many more interests to discover! ^_^
+
+---
+
+### ✍🏻 Writing 
+
+  - I'm writing a book based on upon the topic "How My Early 20s look from Timeline of failing in IIT-JEE to finally being a college graduate."
 
 ---
 
