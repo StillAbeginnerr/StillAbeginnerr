@@ -24,11 +24,11 @@ geospatial tools.
 
 ## 🌟 Building in Public AI Engineer Experience
 - 🙎🏻‍♂️ **Evanth AI**  [Click-To-Open](https://www.evanth.in) <br>
-Dynamic AI Collaboration Platform: Designed and implemented a multi-layer AI system combining
-inquiry capture, query generation, data aggregation, and response generation for accurate and efficient
-user solutions.
+Evanth AI is a platform that offers unified access to over 18 premium AI models, including GPT-4, Claude 3.5, Gemini 1.5, and Mistral Large. Designed to enhance AI accessibility and cost efficiency, Evanth AI provides a single subscription model starting at approximately $1.10 per month.
+
 Core Features: Introduced unique capabilities like dynamic model switching, AI plugins, and live web
 interactions to enhance functionality.
+
 User Growth: Achieved over 9,300 visits, 20,000 Event Count 250+ signups within the first
 month of MVP launch according to google analytics.
 
