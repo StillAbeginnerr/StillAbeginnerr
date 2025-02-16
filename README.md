@@ -51,40 +51,40 @@ Passionate about developing systematic trading strategies, financial models, and
 
 ---
 
+## 🌟 Projects
 
-### 🌟 Projects
-
-Here are some of my favorite projects from my GitHub repository:
-
--	 GmailToWhatsApp : A tool to automate receiving gmails over whatsapp using Twilio bot and Node.js
--	 CurveTopia : A tool to check shapes and their symmetries, it also recognize and regenerates bad shapes.
--	 Evanth AI : Evanth AI is a platform that offers unified access to over 18 premium AI models, including GPT-4, Claude 3.5, Gemini 1.5, and Mistral Large. Designed to enhance AI accessibility and cost efficiency, Evanth AI provides a single subscription model starting at approximately $1.10 per month.
--	 AI Chat Application : Production Level Chat Application with Role Customisation, Task Management, Personal Messaging, Group Messaging and Broadcasting with AI Support.(In-Development)
--	 Razorpay SaaS Backend : Fully Documented Easy to Use Boilerplate for SaaS webapps, iOS and Android (In-Development)
----
+| Category       | Project Name               | Key Features/Technologies                                  | Status         |
+|----------------|----------------------------|------------------------------------------------------------|----------------|
+| 🤖 Automation  | GmailToWhatsApp            | Twilio integration • Node.js backend • Email-to-IM gateway | ✅ Completed   |
+| 🎨 Design Tool | CurveTopia                 | Shape symmetry analysis • Pattern regeneration • SVG tools | ✅ Completed   |
+| 🧠 AI Platform | Evanth AI                  | 18+ premium models • Unified API • $1.10/month subscription| ✅ Live        |
+| 💬 Chat System | AI Chat Application        | Role customization • Task management • Multi-channel support | 🚧 In-Development |
+| 💳 Payment SaaS| Razorpay SaaS Backend      | Boilerplate templates • Full documentation • Multi-platform | 🚧 In-Development |
 
 
-## 🏆 **Hackathons**  
-- 🎖️ **Xiaomi Ode 2 Code 2.0 Hackathon**: All India Rank **11** out of **7,806 participants**.  
-- 🌍 **MLH OpenSource Hackfest 2023**: **Winner** among 200+ international participants.  
-- 🚀 **Startup Grind GID 3.0**: **Finalist** in Product Development and Prototyping.  
-- 🎨 **Adobe GenSolve '24**: Top 5 percentile out of **100,000+ participants nationally**.  
+## 🏆 Achievements
 
-## 🏅 **Achievements**   
-- 🌟 **Enactus India National Exposition**: Early Stage Winner.  
-- 🏆 **Startup Grind Bhubaneswar**: Best Performer in 2023.  
-- 🔧 **GSSOC 2022**: Top **125 Rank** out of 1,000+ participants with **7 PRs merged** in multiple projects.  
-- 🛠️ **IEM Diversion ’22**: Open Source Contributor.  
-- 🌐 **Hacktober Fest ’22**: Open Source Contributor.  
+| Category        | Event/Title                                  | Achievement/Details                          | Participants/Details          |
+|-----------------|----------------------------------------------|----------------------------------------------|-------------------------------|
+| 🎖️ Hackathons   | Xiaomi Ode 2 Code 2.0 Hackathon              | All India Rank 11                            | 7,806 participants           |
+| 🌍 Hackathons    | MLH OpenSource Hackfest 2023                 | Winner                                       | 200+ international participants |
+| 🚀 Hackathons    | Startup Grind GID 3.0                        | Finalist in Product Development              | -                              |
+| 🎨 Hackathons    | Adobe GenSolve '24                           | Top 5 percentile                             | 100,000+ participants nationally |
+| 🌟 Achievements  | Enactus India National Exposition            | Early Stage Winner                           | -                              |
+| 🏅 Achievements  | Startup Grind Bhubaneswar                    | Best Performer 2023                          | -                              |
+| 🔧 Open Source   | GSSOC 2022                                   | Top 125 Rank                                 | 7 PRs merged                   |
+| 🛠️ Open Source   | IEM Diversion '22                            | Contributor                                  | -                              |
+| 🌐 Open Source   | Hacktober Fest '22                           | Contributor                                  | -                              |
 
-## 🎓 Certifications  
-- 🥾 **Trekker** – *IndiaHikes*  
-- 🧩 **Basic Problem Solving** – *HackerRank*  
-- ⚛️ **React.js Essential Training** – *LinkedIn*  
-- 📊 **Biases and Portfolio Selection** – *Rice University, Texas, US* (*Coursera*)  
-- 📈 **Portfolio Selection and Risk Management** – *Rice University, Texas, US* (*Coursera*)  
+## 🎓 Certifications
 
----
+| Category        | Certification                                | Issuing Authority                           |
+|-----------------|----------------------------------------------|---------------------------------------------|
+| 🧩 Development   | Basic Problem Solving                        | HackerRank                                  |
+| ⚛️ Development   | React.js Essential Training                  | LinkedIn                                    |
+| 📊 Finance       | Biases and Portfolio Selection               | Rice University (Coursera)                 |
+| 📈 Finance       | Portfolio Selection & Risk Management       | Rice University (Coursera)                 |
+
 
 ## 🧩 Competitive Programming & DSA
 - 🔥 Engaged in competitive programming as a hobby, having solved over 400 problems across various platforms in C++.
@@ -92,40 +92,27 @@ Here are some of my favorite projects from my GitHub repository:
 ---
 
 ## 🌐 Languages
-- 🇬🇧 **English**: Near fluency  
-- 🇯🇵 **Japanese**: Basic (aiming for JLPT certifications)  
-- 🇮🇳 **Hindi**: Native  
-- 🌱 Aspiring to become multi-linguistic by 2026.
 
----
+| Language       | Proficiency      | Goals/Certifications                |
+|----------------|------------------|--------------------------------------|
+| 🇬🇧 English     | Near Fluency     |                                      |
+| 🇮🇳 Hindi       | Native           |                                      |
 
-### 🎒 Hobbies
+## 🎒 Hobbies
 
-  - Solo backpacking and trekking; recently explored DEORIATAL CHANDRASHILA, 12083 feet high in Garhwal Himalayas [Trek Certificate](https://drive.google.com/file/d/1mmm0WC-UgHRfHh3_yDYpoqlUcZ_zvMKC/view?usp=sharing) and also Meghalaya, with a highlight being the *David Scott Trail*, which I especially enjoyed and also explored Kolkata, Mumbai, Delhi, Hyderabad, Bangalore, Rishikesh, Dehradun, Mussoorie, Jaipur, Shillong, Imphal, Ahmedabad etc. in a solo mode.
-  - Reading; highly recommend *The Courage To Be Disliked*.
-  - Haha! Many more interests to discover! ^_^
+| Category         | Details                                                                 | Highlights/Links                                                                 |
+|------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| 🏔️ Trekking      | Expeditions in Himalayan ranges                                   | Deoriatal-Chandrashila (12,083 ft)  |
+| 🚶 Backpacking  | Explored 15+ Indian cities & heritage trails                          | David Scott Trail (Meghalaya) • Metropolitan explorations                      |
+| 📚 Reading        | Non-Fiction/Fiction/Psychology focus                                            | Top Recommendation: *The Courage To Be Disliked*                                |
 
----
+## 💻 Tech Stack
 
-### 💻 My Tech-Stack:
-
-**Languages and Tools**
-
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-FF6C37?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Cloud and Hosting Services**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
-
-**Development Experience**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+| Category              | Technologies                          |
+|-----------------------|---------------------------------------|
+| 🛠️ Core Languages    | JavaScript, C++, Python, Typescript              | 
+| ☁️ Cloud Services     | Vercel, Firebase, AWS, Azure                                |
+| ⚡ Backend            | Node.js, Express, GraphQL            | 
+| 💅 Frontend           | React, Next.js,                        | 
+| 🔬 Data Science       | NumPy, SciPy, TensorFlow              | 
+| 📊 Database | PostgresQL, MySQL, MongoDB |
