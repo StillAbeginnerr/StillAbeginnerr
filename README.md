@@ -14,13 +14,13 @@
 - OSS, Leetcode and Fine-tuning my personal AI based on a certain LLM model.
 - Open to be hired for developer as well as Intern roles, preferably an AI Full-Stack position.
 
-## 🌟 Open Source Experience
-- 🗺️ **Open Street Maps**  
-Contributed to OpenStreetMap’s iD editor by engaging in issue discussions, including Issue #10573,
+## 🌟 Open Source Experience (Open Street Maps, World's Biggest Open Editable Map Database)
+- OpenStreetMap (abbreviated OSM) is a free, open map database updated and maintained by a community of volunteers via open collaboration.
+- Contributed to OpenStreetMap’s iD editor by engaging in issue discussions, including Issue #10573,
 #10570 providing detailed feedback on user interface and functionality enhancements.
-Assisted in identifying bugs and suggesting improvements for better user experience in open-source
+- Assisted in identifying bugs and suggesting improvements for better user experience in open-source
 geospatial tools.
-Collaborated with the developer community to refine and implement actionable solutions.
+- Collaborated with the developer community to refine and implement actionable solutions.
 
 ## 🌟 Building in Public AI Engineer Experience
 - 🙎🏻‍♂️ **Evanth AI**  [Click-To-Open](https://www.evanth.in) <br>
@@ -55,10 +55,17 @@ Passionate about developing systematic trading strategies, financial models, and
 ---
 
 
+### 🌟 Projects
 
-## 🚀 **Projects**  
-- 💡 **MediLift**: Co-founded and served as CTO, developing a **One-Tap Ambulance System**; finalist in the **Pitcher’s Pilot Contest 2023**.   
-- 🌐 **Microsoft for Startups**: Active member of the **Founder's Hub** with Evanth AI.
+Here are some of my favorite projects from my GitHub repository:
+
+-	 GmailToWhatsApp : A tool to automate receiving gmails over whatsapp using Twilio bot and Node.js
+-	 CurveTopia : A tool to check shapes and their symmetries, it also recognize and regenerates bad shapes.
+-	 Evanth AI : Evanth AI is a platform that offers unified access to over 18 premium AI models, including GPT-4, Claude 3.5, Gemini 1.5, and Mistral Large. Designed to enhance AI accessibility and cost efficiency, Evanth AI provides a single subscription model starting at approximately $1.10 per month.
+-	 AI Chat Application : Enterprise Graded Chat Application with Role Customisation, Task Management, Personal Messaging, Group Messaging and Broadcasting with AI Support.
+-	 Razorpay SaaS Backend : Fully Documented Easy to Use Boilerplate for SaaS webapps, iOS and Android.
+
+---
 
 
 ## 🏆 **Hackathons**  
@@ -107,15 +114,6 @@ Passionate about developing systematic trading strategies, financial models, and
 ### ✍🏻 Writing 
 
   - I'm writing a book based on upon the topic "How My Early 20s look from Timeline of failing in IIT-JEE to finally being a college graduate."
-
----
-
-### 🌟 Projects
-
-Here are some of my favorite projects from my GitHub repository:
-
--	💬 GmailToWhatsApp : A tool to automate receiving gmails over whatsapp using Twilio bot and Node.js
--	✏️ CurveTopia : A tool to check shapes and their symmetries, it also recognize and regenerates bad shapes.
 
 ---
 
