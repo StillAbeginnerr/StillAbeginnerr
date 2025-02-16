@@ -102,7 +102,7 @@ Here are some of my favorite projects from my GitHub repository:
 ### 🎒 Hobbies
 
   - Solo backpacking and trekking; recently explored DEORIATAL CHANDRASHILA, 12083 feet high in Garhwal Himalayas [Trek Certificate](https://drive.google.com/file/d/1mmm0WC-UgHRfHh3_yDYpoqlUcZ_zvMKC/view?usp=sharing) and also Meghalaya, with a highlight being the *David Scott Trail*, which I especially enjoyed and also explored Kolkata, Mumbai, Delhi, Hyderabad, Bangalore, Rishikesh, Dehradun, Mussoorie, Jaipur, Shillong, Imphal, Ahmedabad etc. in a solo mode.
-  - Poetry and reading; highly recommend *The Courage To Be Disliked*.
+  - Reading; highly recommend *The Courage To Be Disliked*.
   - Haha! Many more interests to discover! ^_^
 
 ---
