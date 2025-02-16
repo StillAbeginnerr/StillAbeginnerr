@@ -66,13 +66,13 @@ Comfortable with RAG, Langchain, Vector Embeddings, Vercel AI SDK and any API in
 |-----------------|----------------------------------------------|----------------------------------------------|-------------------------------|
 | 🎖️ Hackathons   | Xiaomi Ode 2 Code 2.0 Hackathon              | All India Rank 11                            | 7,806 participants           |
 | 🌍 Hackathons    | MLH OpenSource Hackfest 2023                 | Winner                                       | 200+ international participants |
-| 🚀 Hackathons    | Startup Grind GID 3.0                        | Finalist in Product Development              | -                              |
-| 🎨 Hackathons    | Adobe GenSolve '24                           | Top 5 percentile                             | 100,000+ participants nationally |
-| 🌟 Achievements  | Enactus India National Exposition            | Early Stage Winner                           | -                              |
-| 🏅 Achievements  | Startup Grind Bhubaneswar                    | Best Performer 2023                          | -                              |
+| 🚀 Hackathons    | Startup Grind GID 3.0                        | Finalist in Product Development              | 50+                            |
+| 🎨 Hackathons    | Adobe GenSolve '24                           | Top 99% percentile                             | 100,000+ participants nationally |
+| 🌟 Achievements  | Enactus India National Exposition            | Early Stage Winner                           | -  Enactus All over India                            |
+| 🏅 Achievements  | Startup Grind Bhubaneswar                    | Best Performer 2023                          | Secured Funding For Sponsorship Events                            |
 | 🔧 Open Source   | GSSOC 2022                                   | Top 125 Rank                                 | 7 PRs merged                   |
-| 🛠️ Open Source   | IEM Diversion '22                            | Contributor                                  | -                              |
-| 🌐 Open Source   | Hacktober Fest '22                           | Contributor                                  | -                              |
+| 🛠️ Open Source   | IEM Diversion '22                            | Contributor                                  | Integrated TTS Functionality.                              |
+| 🌐 Open Source   | Hacktober Fest '22                           | Contributor                                  | 4 PRs merged                              |
 
 ## 🎓 Certifications
 
