@@ -78,7 +78,7 @@ geospatial tools.
 | 🎨 Hackathons    | Adobe GenSolve '24                           | Top 99% percentile                             | 100,000+ participants nationally |
 | 🌟 Achievements  | Enactus India National Exposition            | Early Stage Winner                           |  Enactus All over India                            |
 | 🏅 Achievements  | Startup Grind Bhubaneswar                    | Best Performer 2023                          | Secured Funding For Sponsorship Events                            |
-| 🔧 Open Source   | GSSOC 2022                                   | Top 125/1000+                                | 7 PRs merged                   |
+| 🔧 Open Source   | GSSOC 2022                                   | Top 125/1000+ Rank                               | 7 PRs merged                   |
 | 🛠️ Open Source   | IEM Diversion '22                            | Contributor                                  | Integrated TTS Functionality.                              |
 | 🌐 Open Source   | Hacktober Fest '22                           | Contributor                                  | 4 PRs merged                              |
 
