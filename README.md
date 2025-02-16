@@ -11,7 +11,7 @@
 ---
 
 ## ✏️ Currently on?
-- Open to be hired for developer as well as Full Time roles, preferably an AI Full-Stack position.
+- Open to be hired for Freelance Developer as well as Full Time roles.
 
 ## 🌟 Open Source Experience (Open Street Maps, World's Biggest Open Editable Map Database)
 - OpenStreetMap (abbreviated OSM) is a free, open map database updated and maintained by a community of volunteers via open collaboration.
@@ -32,24 +32,20 @@ interactions to enhance functionality.
 - Trained a Few Internal Models through Fine-tuning and regex. 
 Comfortable with RAG, Langchain, Vector Embeddings, Vercel AI SDK and any API integration.
 
+## 🌟 Professional Experience
 
+| Organization       | Role                          | Key Contributions/Technologies                          | Duration        | Impact                          |
+|--------------------|-------------------------------|----------------------------------------------------------|-----------------|---------------------------------|
+| 🛡️ DRDO            | Software Engineer Trainee     | • Secure LAN messaging system (JWT Auth) • MySQL • Multer | May-Jul 2024    | Production level • 99.9% uptime |
+| 💻 Qualessence Tech| Full Stack Developer Intern   | • Next.js • PostgreSQL • Wix Analytics • Agile SDLC      | Jul-Dec 2024    | 35% inquiry boost • 40% faster rendering |
 
-## 💹 Quantitative Developer | Backtesting Enthusiast  
+**Technical Highlights:**  
+- **DRDO**: Built defense-grade LAN comms system handling 500+ users • Role-based access control  
+- **Qualessence**: Developed virtual store solutions • Conducted 20+ scrum meetings  
+- **Common Stack**: Node.js • React • Enterprise databases • CI/CD pipelines  
 
-Passionate about developing systematic trading strategies, financial models, and backtesting frameworks. I focus on data-driven approaches to algorithmic trading, leveraging statistical analysis and machine learning for alpha generation.  
+**Locations**: Agra (DRDO) • Remote (Qualessence)  
 
-- [🔗 Moving Average Crossover Backtesting](https://github.com/StillAbeginnerr/Moving-Average-Crossover-Backtesting) – A Python-based framework for evaluating moving average crossover strategies with performance analytics and visualization.  
-- 💬 Always open to discussions on quantitative strategies, algorithmic trading, and financial engineering!  
-
-
-## 🌟 Professional Internship Experience
-- 🛡️ **Aerial Defence Research and Development Establishment (DRDO), India**  
-  Contributed to significant projects as a Software Engineer Intern, with a focus on developing internal system applications.
-
-- 💻 **Qualessence Technologies, India**  
-  Developed dynamic e-commerce solutions using Next.js and Framer-motion, actively participating in the complete software development lifecycle, from concept to deployment.
-
----
 
 ## 🌟 Projects
 
@@ -60,6 +56,8 @@ Passionate about developing systematic trading strategies, financial models, and
 | 🧠 AI Platform | Evanth AI                  | 18+ premium models • Unified API • $1.10/month subscription| ✅ Live        |
 | 💬 Chat System | AI Chat Application        | Role customization • Task management • Multi-channel support | 🚧 In-Development |
 | 💳 Payment SaaS| Razorpay SaaS Backend      | Boilerplate templates • Full documentation • Multi-platform | 🚧 In-Development |
+| 📈 Backtesting Algo | Moving Averages | A Python-based framework for evaluating moving average crossover strategies with performance analytics and visualization. | ✅ Completed |
+
 
 
 ## 🏆 Achievements
@@ -85,18 +83,12 @@ Passionate about developing systematic trading strategies, financial models, and
 | 📊 Finance       | Biases and Portfolio Selection               | Rice University (Coursera)                 |
 | 📈 Finance       | Portfolio Selection & Risk Management       | Rice University (Coursera)                 |
 
-
-## 🧩 Competitive Programming & DSA
-- 🔥 Engaged in competitive programming as a hobby, having solved over 400 problems across various platforms in C++.
-
----
-
 ## 🌐 Languages
 
-| Language       | Proficiency      | Goals/Certifications                |
-|----------------|------------------|--------------------------------------|
-| 🇬🇧 English     | Near Fluency     |                                      |
-| 🇮🇳 Hindi       | Native           |                                      |
+| Language       | Proficiency      |
+|----------------|------------------|
+| 🇬🇧 English     | Near Fluency     |                                      
+| 🇮🇳 Hindi       | Native           |                                      
 
 ## 🎒 Hobbies
 
