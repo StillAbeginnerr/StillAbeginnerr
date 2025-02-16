@@ -66,7 +66,7 @@ Comfortable with RAG, Langchain, Vector Embeddings, Vercel AI SDK and any API in
 | 🛠️ Core Languages    | JavaScript, C++, Python, Typescript              | 
 | ☁️ Cloud Services     | Vercel, Firebase, AWS, Azure                                |
 | ⚡ Backend            | Node.js, Express, GraphQL            | 
-| 💅 Frontend           | React, Next.js,                        | 
+| 🧑🏻‍🎨 Frontend           | React, Next.js,                        | 
 | 🔬 Data Science       | NumPy, SciPy, TensorFlow              | 
 | 📊 Database | PostgresQL, MySQL, MongoDB |
 
