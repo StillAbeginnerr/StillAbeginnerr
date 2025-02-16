@@ -110,12 +110,6 @@ Here are some of my favorite projects from my GitHub repository:
 
 ---
 
-### ✍🏻 Writing 
-
-  - I'm writing a book based on upon the topic "How My Early 20s look from Timeline of failing in IIT-JEE to finally being a college graduate."
-
----
-
 ### 💻 My Tech-Stack:
 
 **Languages and Tools**
