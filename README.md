@@ -62,9 +62,8 @@ Here are some of my favorite projects from my GitHub repository:
 -	 GmailToWhatsApp : A tool to automate receiving gmails over whatsapp using Twilio bot and Node.js
 -	 CurveTopia : A tool to check shapes and their symmetries, it also recognize and regenerates bad shapes.
 -	 Evanth AI : Evanth AI is a platform that offers unified access to over 18 premium AI models, including GPT-4, Claude 3.5, Gemini 1.5, and Mistral Large. Designed to enhance AI accessibility and cost efficiency, Evanth AI provides a single subscription model starting at approximately $1.10 per month.
--	 AI Chat Application : Production Level Chat Application with Role Customisation, Task Management, Personal Messaging, Group Messaging and Broadcasting with AI Support.
--	 Razorpay SaaS Backend : Fully Documented Easy to Use Boilerplate for SaaS webapps, iOS and Android.
-
+-	 AI Chat Application : Production Level Chat Application with Role Customisation, Task Management, Personal Messaging, Group Messaging and Broadcasting with AI Support.(In-Development)
+-	 Razorpay SaaS Backend : Fully Documented Easy to Use Boilerplate for SaaS webapps, iOS and Android (In-Development)
 ---
 
 
