@@ -59,6 +59,18 @@ Comfortable with RAG, Langchain, Vector Embeddings, Vercel AI SDK and any API in
 | 📈 Backtesting Algo | Moving Averages | A Python-based framework for evaluating moving average crossover strategies with performance analytics and visualization. | ✅ Completed |
 
 
+## 💻 Tech Stack
+
+| Category              | Technologies                          |
+|-----------------------|---------------------------------------|
+| 🛠️ Core Languages    | JavaScript, C++, Python, Typescript              | 
+| ☁️ Cloud Services     | Vercel, Firebase, AWS, Azure                                |
+| ⚡ Backend            | Node.js, Express, GraphQL            | 
+| 💅 Frontend           | React, Next.js,                        | 
+| 🔬 Data Science       | NumPy, SciPy, TensorFlow              | 
+| 📊 Database | PostgresQL, MySQL, MongoDB |
+
+
 
 ## 🏆 Achievements
 
@@ -98,13 +110,3 @@ Comfortable with RAG, Langchain, Vector Embeddings, Vercel AI SDK and any API in
 | 🚶 Backpacking  | Explored 15+ Indian cities & heritage trails                          | David Scott Trail (Meghalaya) • Metropolitan explorations                      |
 | 📚 Reading        | Non-Fiction/Fiction/Psychology focus                                            | Top Recommendation: *The Courage To Be Disliked*                                |
 
-## 💻 Tech Stack
-
-| Category              | Technologies                          |
-|-----------------------|---------------------------------------|
-| 🛠️ Core Languages    | JavaScript, C++, Python, Typescript              | 
-| ☁️ Cloud Services     | Vercel, Firebase, AWS, Azure                                |
-| ⚡ Backend            | Node.js, Express, GraphQL            | 
-| 💅 Frontend           | React, Next.js,                        | 
-| 🔬 Data Science       | NumPy, SciPy, TensorFlow              | 
-| 📊 Database | PostgresQL, MySQL, MongoDB |
