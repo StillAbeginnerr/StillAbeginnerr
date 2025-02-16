@@ -68,7 +68,7 @@ Comfortable with RAG, Langchain, Vector Embeddings, Vercel AI SDK and any API in
 | 🌍 Hackathons    | MLH OpenSource Hackfest 2023                 | Winner                                       | 200+ international participants |
 | 🚀 Hackathons    | Startup Grind GID 3.0                        | Finalist in Product Development              | 50+                            |
 | 🎨 Hackathons    | Adobe GenSolve '24                           | Top 99% percentile                             | 100,000+ participants nationally |
-| 🌟 Achievements  | Enactus India National Exposition            | Early Stage Winner                           | -  Enactus All over India                            |
+| 🌟 Achievements  | Enactus India National Exposition            | Early Stage Winner                           |  Enactus All over India                            |
 | 🏅 Achievements  | Startup Grind Bhubaneswar                    | Best Performer 2023                          | Secured Funding For Sponsorship Events                            |
 | 🔧 Open Source   | GSSOC 2022                                   | Top 125 Rank                                 | 7 PRs merged                   |
 | 🛠️ Open Source   | IEM Diversion '22                            | Contributor                                  | Integrated TTS Functionality.                              |
