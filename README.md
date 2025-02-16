@@ -11,7 +11,7 @@
 ---
 
 ## ✏️ Currently on?
-- Open to be hired for developer as well as Intern roles, preferably an AI Full-Stack position.
+- Open to be hired for developer as well as Full Time roles, preferably an AI Full-Stack position.
 
 ## 🌟 Open Source Experience (Open Street Maps, World's Biggest Open Editable Map Database)
 - OpenStreetMap (abbreviated OSM) is a free, open map database updated and maintained by a community of volunteers via open collaboration.
