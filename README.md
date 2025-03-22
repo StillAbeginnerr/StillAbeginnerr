@@ -7,7 +7,7 @@
 - Bachelors of Technology ( B.Tech )
 - Computer Science and Communication Engineering (2025)
 - Kalinga Institute of Industrial Technology, India
-- Resume : [Google Drive Link](https://drive.google.com/file/d/1HlIQ8lx5H5fVKe7IF5HDl-mITPx1HvXq/view?usp=sharing)
+- Resume : [Google Drive Link](https://drive.google.com/file/d/1Z9gu2vYjIOJDZA7LjnM5UM7QfaDsrm8d/view?usp=sharing)
 ---
 
 ## ✏️ Currently on?
