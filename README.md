@@ -50,8 +50,8 @@ geospatial tools.
 | 🤖 Automation  | GmailToWhatsApp            | Twilio integration • Node.js backend • Email-to-IM gateway | ✅ Completed   |
 | 🎨 Design Tool | CurveTopia                 | Shape symmetry analysis • Pattern regeneration • SVG tools | ✅ Completed   |
 | 🧠 AI Platform | Evanth AI                  | 18+ premium models • Unified API • $1.10/month subscription| ✅ Live        |
-| 💬 Chat System | AI Chat Application        | Role customization • Task management • Multi-channel support | 🚧 In-Development |
-| 💳 Payment SaaS| Razorpay SaaS Backend      | Boilerplate templates • Full documentation • Multi-platform | 🚧 In-Development |
+| 💬 Flight Finder AI | Agentic AI       | Recommendation System • Unified Multiple APIs • Flight on your convenience | ✅ Live |
+| 💳 Payment SaaS| Razorpay SaaS Backend      | Boilerplate templates • Full documentation • Multi-platform | ✅ Template  |
 | 📈 Backtesting Algo | Moving Averages | A Python-based framework for evaluating moving average crossover strategies with performance analytics and visualization. | ✅ Completed |
 
 
