@@ -10,9 +10,6 @@
 - Resume : [Google Drive Link](https://drive.google.com/file/d/1t35aGpHSMXfdzhVYLWoS3BhHEYddZZLT/view?usp=sharing)
 ---
 
-## ✏️ Currently on?
-- Open to be hired for Freelance Developer as well as Full Time roles.
-
 ## 🌟 Open Source Experience (Open Street Maps, World's Biggest Open Editable Map Database)
 - OpenStreetMap (abbreviated OSM) is a free, open map database updated and maintained by a community of volunteers via open collaboration.
   
