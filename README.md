@@ -10,12 +10,10 @@
 - Resume : [Google Drive Link](https://drive.google.com/file/d/1t35aGpHSMXfdzhVYLWoS3BhHEYddZZLT/view?usp=sharing)
 ---
 
-## 🌟 Open Source Experience (Open Street Maps, World's Biggest Open Editable Map Database)
+## 🌟 Open Source Experience
 - OpenStreetMap (abbreviated OSM) is a free, open map database updated and maintained by a community of volunteers via open collaboration.
-  
 - Contributed to OpenStreetMap’s iD editor by engaging in issue discussions, including Issue #10573,
 #10570 providing detailed feedback on user interface and functionality enhancements.
-
 - Assisted in identifying bugs and suggesting improvements for better user experience in open-source
 geospatial tools.
 
