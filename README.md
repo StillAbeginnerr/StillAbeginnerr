@@ -25,13 +25,15 @@ geospatial tools.
 
 - Evanth AI is a platform that offers unified access to over 18 premium AI models, including GPT-4, Claude 3.5, Gemini 1.5, and Mistral Large. Designed to enhance AI accessibility and cost efficiency, Evanth AI provides a single subscription model starting at approximately $1.10 per month.
 
-## 🌟 Professional Experience
+### 👨‍💻 Experience
 
-| Organization       | Role                          | Key Contributions/Technologies                          | Duration        | Impact                          |
-|--------------------|-------------------------------|----------------------------------------------------------|-----------------|---------------------------------|
-| LegacyEdge.io      | Full Stack Developer Intern   | • Next.js • PostgreSQL • Firebase APIs • Azure APIs • Twilio • VAPI | Feb-Apr 2025  | Delivered a client's MVP • Integrated function tool calling in Voice to Voice Backend |
-| 🛡️ DRDO            | Software Engineer Trainee     | • Secure LAN messaging system (JWT Auth) • MySQL • Multer | May-Jul 2024    | Production level • 99.9% uptime |
-| 💻 Qualessence Tech| Full Stack Developer Intern   | • Next.js • PostgreSQL • Wix Analytics • Agile SDLC      | Jul-Dec 2024    | 35% inquiry boost • 40% faster rendering |
+| Organization       | Role                        | Tech Stack & Contributions                                                                 | Duration         | Impact                                                                 |
+|--------------------|-----------------------------|---------------------------------------------------------------------------------------------|------------------|------------------------------------------------------------------------|
+| Stealth AI Startup | Full Stack Developer Intern | `SpringBoot` `FastAPI` `Next.js` `Tavily` `Jest` `LLM APIs`<br>Built reusable components and tests     | May – Present 2025 | ✅ 20+ PRs merged<br>✅ Shipped modular features<br>✅ Wrote unit/integration tests |
+| LegacyEdge.io      | Full Stack Developer Intern | `Next.js` `PostgreSQL` `Firebase APIs` `Azure APIs` `Twilio` `VAPI` `LLM APIs`<br>Voice backend integration | Feb – Apr 2025   | 🚀 Delivered MVP for client<br>🔧 Integrated tool-calling via voice backend |
+| 💻 Qualessence Tech| Full Stack Developer Intern | `Next.js` `PostgreSQL` `Wix Analytics` `LLM APIs` <br>Agile delivery and performance optimization       | Jul – Dec 2024   | ⚡ 40% faster render time<br>📈 35% boost in user inquiries |
+| Defence Research and Development Organisation, Ministry of Defence,<br> Govt. of India          | Software Engineer Trainee   | `MySQL` `Multer` <br>Built a secure LAN messaging system with JWT-based auth                 | May – Jul 2024   | 🔐 Built internal LAN (local Area Network ) secure comms tool |
+
 
 **Technical Highlights:**  
 - **DRDO**: Built defense-grade LAN comms system handling 500+ users • Role-based access control  
