@@ -29,10 +29,10 @@ geospatial tools.
 
 | Organization       | Role                        | Tech Stack & Contributions                                                                 | Duration         | Impact                                                                 |
 |--------------------|-----------------------------|---------------------------------------------------------------------------------------------|------------------|------------------------------------------------------------------------|
-| Stealth AI Startup | Full Stack Developer Intern | `SpringBoot` `FastAPI` `Next.js` `Tavily` `Jest` `LLM APIs`<br>Built reusable components and tests     | May – Present 2025 | ✅ 20+ PRs merged<br>✅ Shipped modular features<br>✅ Wrote unit/integration tests |
-| LegacyEdge.io      | Full Stack Developer Intern | `Next.js` `PostgreSQL` `Firebase APIs` `Azure APIs` `Twilio` `VAPI` `LLM APIs`<br>Voice backend integration | Feb – Apr 2025   | 🚀 Delivered MVP for client<br>🔧 Integrated tool-calling via voice backend |
-| 💻 Qualessence Tech| Full Stack Developer Intern | `Next.js` `PostgreSQL` `Wix Analytics` `LLM APIs` <br>Agile delivery and performance optimization       | Jul – Dec 2024   | ⚡ 40% faster render time<br>📈 35% boost in user inquiries |
-| Defence Research and Development Organisation, Ministry of Defence,<br> Govt. of India          | Software Engineer Trainee   | `MySQL` `Multer` <br>Built a secure LAN messaging system with JWT-based auth                 | May – Jul 2024   | 🔐 Built internal LAN (local Area Network ) secure comms tool |
+| Stealth AI Startup | Full Stack Developer Intern | `SpringBoot` `FastAPI` `Next.js` `Tavily` `Jest` `LLM APIs`<br>Built reusable components and tests     | May – Present 2025 |  20+ PRs merged<br> Shipped modular features<br> Wrote unit/integration tests |
+| LegacyEdge.io      | Full Stack Developer Intern | `Next.js` `PostgreSQL` `Firebase APIs` `Azure APIs` `Twilio` `VAPI` `LLM APIs`<br>Voice backend integration | Feb – Apr 2025   |  Delivered MVP for client<br> Integrated tool-calling via voice backend |
+| 💻 Qualessence Tech| Full Stack Developer Intern | `Next.js` `PostgreSQL` `Wix Analytics` `LLM APIs` <br>Agile delivery and performance optimization       | Jul – Dec 2024   |  40% faster render time<br> 35% boost in user inquiries |
+| Defence Research and Development Organisation, Ministry of Defence,<br> Govt. of India          | Software Engineer Trainee   | `MySQL` `Multer` <br>Built a secure LAN messaging system with JWT-based auth                 | May – Jul 2024   |  Built internal LAN (local Area Network ) secure comms tool |
 
 
 **Technical Highlights:**  
