@@ -90,7 +90,8 @@ geospatial tools.
 | Language       | Proficiency      |
 |----------------|------------------|
 | 🇬🇧 English     | Near Fluency     |                                      
-| 🇮🇳 Hindi       | Native           |                                      
+| 🇮🇳 Hindi       | Native           |
+| Japanese | N5 JLPT Level |
 
 ## 🎒 Hobbies
 
