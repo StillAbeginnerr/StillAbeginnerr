@@ -80,7 +80,7 @@ geospatial tools.
 
 | Category        | Certification                                | Issuing Authority                           |
 |-----------------|----------------------------------------------|---------------------------------------------|
-| 🧩 Development   | Basic Problem Solving                        | HackerRank                                  |
+| 🧩 Algorithms   | Basic Problem Solving                        | HackerRank                                  |
 | ⚛️ Development   | React.js Essential Training                  | LinkedIn                                    |
 | 📊 Finance       | Biases and Portfolio Selection               | Rice University (Coursera)                 |
 | 📈 Finance       | Portfolio Selection & Risk Management       | Rice University (Coursera)                 |
@@ -91,7 +91,7 @@ geospatial tools.
 |----------------|------------------|
 | 🇬🇧 English     | Near Fluency     |                                      
 | 🇮🇳 Hindi       | Native           |
-| Japanese | N5 JLPT Level |
+| 🇯🇵 Japanese | N5 JLPT Level |
 
 ## 🎒 Hobbies
 
