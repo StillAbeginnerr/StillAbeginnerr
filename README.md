@@ -29,6 +29,7 @@ geospatial tools.
 
 | Organization       | Role                          | Key Contributions/Technologies                          | Duration        | Impact                          |
 |--------------------|-------------------------------|----------------------------------------------------------|-----------------|---------------------------------|
+| LegacyEdge.io      | Full Stack Developer Intern   | • Next.js • PostgreSQL • Firebase APIs • Azure APIs • Twilio • VAPI | Feb-Apr 2025  | Delivered a client's MVP • Integrated function tool calling in Voice to Voice Backend |
 | 🛡️ DRDO            | Software Engineer Trainee     | • Secure LAN messaging system (JWT Auth) • MySQL • Multer | May-Jul 2024    | Production level • 99.9% uptime |
 | 💻 Qualessence Tech| Full Stack Developer Intern   | • Next.js • PostgreSQL • Wix Analytics • Agile SDLC      | Jul-Dec 2024    | 35% inquiry boost • 40% faster rendering |
 
