@@ -22,7 +22,7 @@ geospatial tools.
 
 ### 🧠 MicroSaaS Startup Experience
 
-| Project Name | Tech Stack & Contributions                                                                    | Impact                                                                 | Website |
+| Project Name | Tech Stack & Contributions                                                                    | Business Impact                                                                 | Website |
 |--------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------|---------|
 | Evanth AI    | `Next.js` `Tavily` `LLMs API` `MCP Integration` <br>Semi-autonomous productivity assistant  | • Generated ₹20K+ in sales 250+ • user signups •  Wrote test files | www.evanth.in |
 
