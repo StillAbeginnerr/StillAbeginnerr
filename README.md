@@ -6,8 +6,6 @@
 ## 📚 Academic Background
 - Bachelors of Technology ( B.Tech )
 - Computer Science and Communication Engineering (2025)
-- Kalinga Institute of Industrial Technology, India
-- Resume : [Google Drive Link](https://drive.google.com/file/d/1t35aGpHSMXfdzhVYLWoS3BhHEYddZZLT/view?usp=sharing)
 ---
 
 ## 🌟 Open Source Experience
