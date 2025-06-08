@@ -20,10 +20,12 @@
 geospatial tools.
 
 
-## 🌟 Building in Public AI Engineer Experience
- 🙎🏻‍♂️   [**Evanth AI**](https://www.evanth.in) <br>
+### 🧠 MicroSaaS Startup Experience
 
-- Evanth AI is a platform that offers unified access to over 18 premium AI models, including GPT-4, Claude 3.5, Gemini 1.5, and Mistral Large. Designed to enhance AI accessibility and cost efficiency, Evanth AI provides a single subscription model starting at approximately $1.10 per month.
+| Project Name | Tech Stack & Contributions                                                                    | Impact                                                                 | Website |
+|--------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------|---------|
+| Evanth AI    | `Next.js` `Tavily` `LLMs API` `MCP Integration` <br>Semi-autonomous productivity assistant  | • Generated ₹20K+ in sales 250+ • user signups •  Wrote test files | www.evanth.in |
+
 
 ### 👨‍💻 Experience
 
@@ -31,16 +33,8 @@ geospatial tools.
 |--------------------|-----------------------------|---------------------------------------------------------------------------------------------|------------------|------------------------------------------------------------------------|
 | Stealth AI Startup | Full Stack Developer Intern | `SpringBoot` `FastAPI` `Next.js` `Tavily` `Jest` `LLM APIs`<br>Built reusable components and tests     | May – Present 2025 |  20+ PRs merged<br> Shipped modular features<br> Wrote unit/integration tests |
 | LegacyEdge.io      | Full Stack Developer Intern | `Next.js` `PostgreSQL` `Firebase APIs` `Azure APIs` `Twilio` `VAPI` `LLM APIs`<br>Voice backend integration | Feb – Apr 2025   |  Delivered MVP for client<br> Integrated tool-calling via voice backend |
-| 💻 Qualessence Tech| Full Stack Developer Intern | `Next.js` `PostgreSQL` `Wix Analytics` `LLM APIs` <br>Agile delivery and performance optimization       | Jul – Dec 2024   |  40% faster render time<br> 35% boost in user inquiries |
-| Defence Research and Development Organisation, Ministry of Defence,<br> Govt. of India          | Software Engineer Trainee   | `MySQL` `Multer` <br>Built a secure LAN messaging system with JWT-based auth                 | May – Jul 2024   |  Built internal LAN (local Area Network ) secure comms tool |
-
-
-**Technical Highlights:**  
-- **DRDO**: Built defense-grade LAN comms system handling 500+ users • Role-based access control  
-- **Qualessence**: Developed virtual store solutions • Conducted 20+ scrum meetings  
-- **Common Stack**: Node.js • React • Enterprise databases • CI/CD pipelines  
-
-**Locations**: Agra (DRDO) • Remote (Qualessence)  
+| 💻 Qualessence Technologies | Full Stack Developer Intern | `Next.js` `PostgreSQL` `Wix Analytics` `LLM APIs` <br>Agile delivery and performance optimization       | Jul – Dec 2024   |  40% faster render time<br> 35% boost in user inquiries |
+| Defence Research and Development Organisation, Ministry of Defence,<br> Govt. of India          | Software Engineer Trainee   | `MySQL` `Multer` <br>Built a secure LAN messaging system with JWT-based auth and RBAC               | May – Jul 2024   |  Built internal LAN (local Area Network ) secure comms tool |
 
 
 ## 🌟 Projects
