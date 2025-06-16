@@ -15,6 +15,12 @@
 - Assisted in identifying bugs and suggesting improvements for better user experience in open-source
 geospatial tools.
 
+## 🌟 Github Stats:
+![](https://github-readme-stats.vercel.app/api?username=stillabeginnerr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=stillabeginnerr&theme=dark&hide_border=false)<br/>
+
+---
+
 
 ### 🧠 MicroSaaS Startup Experience
 
