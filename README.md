@@ -26,7 +26,7 @@ geospatial tools.
 
 | Project Name | Tech Stack & Contributions                                                                     | Website |
 |--------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| Evanth    | `Next.js` `Tavily` `LLMs API` `MCP Integration` <br>Semi-autonomous productivity assistant, Initially Multiple Models Provider  | www.evanth.in |
+| Evanth    | `Next.js` `Tavily` `LLMs API` <br>Semi-autonomous agentic productivity assistant, Initially Multiple Models Provider  | www.evanth.in |
 
 
 
