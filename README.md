@@ -48,7 +48,7 @@ geospatial tools.
 | 🤖 Automation  | GmailToWhatsApp            | Twilio integration • Node.js backend • Email-to-IM gateway | ✅ Completed   |
 | 🎨 Design Tool | CurveTopia                 | Shape symmetry analysis • Pattern regeneration • SVG tools | ✅ Completed   |
 | 🧠 AI Platform | Evanth AI                  | 18+ premium models • Combined Multiple Models and their Contexts into one chat • $20.0/month subscription| ✅ www.evanth.in |
-| 💬 Agentic AI  |  Flight Finder AI     | Recommendation System • Unified Multiple APIs • Flight on your convenience | ✅ airtravelsearch.com |
+| 💬 Agentic AI  |  Flight Finder AI     | Recommendation System • Unified Multiple APIs • Flight on your convenience | ✅ www.airtravelsearch.com |
 | 💳 Payment SaaS| Razorpay SaaS Backend      | Boilerplate templates • Full documentation • Multi-platform | ✅ Template  |
 | 📈 Backtesting Algo | Moving Averages | A Python-based framework for evaluating moving average crossover strategies with performance analytics and visualization. | ✅ Completed |
 
